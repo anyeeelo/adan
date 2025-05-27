@@ -5,7 +5,7 @@ import os
 app = Flask(__name__)
 
 # ⚙️ Configuración de la API de noticias
-NEWS_API_KEY = os.getenv('NEWS_API_KEY', 'TU_API_KEY_AQUI')  # reemplaza esto si deseas dejarlo fijo
+NEWS_API_KEY = os.getenv('NEWS_API_KEY', 'aeb9f0ae7d07482bbbb2d9d3d90abcc8')  # reemplaza esto si deseas dejarlo fijo
 NEWS_API_URL = 'https://newsapi.org/v2/top-headlines'
 NEWS_COUNTRY = 'us'  # puedes cambiarlo a 'mx', 'ar', 'co', 'es', etc.
 

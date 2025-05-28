@@ -1,0 +1,118 @@
+[
+  {
+    "tipo": "wikipedia",
+    "tema": "Universo",
+    "contenido": "El universo es el conjunto de todas las entidades físicamente detectables que interactúan entre ellas dentro del espacio-tiempo de acuerdo a las leyes físicas definidas. Sin embargo, el término también se utiliza informalmente en sentidos contextuales ligeramente diferentes y alude a conceptos como cosmos, mundo, naturaleza o realidad. Su estudio, en las mayores escalas, es el objeto de la cosmología, disciplina basada en la astronomía y la física, en la cual se describen todos los aspectos de este universo con sus fenómenos.\nLas ciencias físicas modelizan el universo como un sistema cerrado que contiene energía y materia adscritas al espacio-tiempo y que se rige fundamentalmente por principios causales. Basándose en observaciones del universo observable, los físicos intentan describir el continuo espacio-tiempo en el que nos encontramos, junto con toda la materia y energía existentes en él.",
+    "timestamp": 1748383018.9556952
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Historia de la humanidad",
+    "contenido": "La historia universal, historia del mundo, historia mundial o historia de la humanidad es el conjunto de hechos y procesos que se han desarrollado en torno al ser humano, desde su aparición hasta la actualidad.",
+    "timestamp": 1748383019.4011462
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Tecnología",
+    "contenido": "La tecnología es la suma de técnicas, habilidades, métodos y procesos utilizados en la producción de bienes o servicios o en el logro de objetivos, como la investigación científica. La tecnología puede ser el conocimiento de técnicas y procesos, o puede integrarse en máquinas para permitir su funcionamiento sin necesidad de un conocimiento detallado de su operación. Los sistemas que aplican tecnología tomando una entrada, cambiándola de acuerdo con el uso del sistema y luego produciendo un resultado se denominan sistemas tecnológicos.",
+    "timestamp": 1748383019.6105118
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Filosofía",
+    "contenido": "\n\nLa filosofía (del griego φιλοσοφία ‘amor a la sabiduría’, derivado de φιλεῖν, fileîn, ‘amar’, y σοφία, sofía, ‘sabiduría’; trans. en latín como philosophĭa) es una disciplina académica y «conjunto de reflexiones sobre la esencia, las propiedades, las causas y los efectos de las cosas naturales, especialmente sobre el hombre y el universo». Bertrand Russell, en su libro Fundamentos de filosofía, comienza diciendo:\n\nQuizá espere el lector que comencemos [...] con una definición de la filosofía; pero, con razón o sin ella, no es este mi propósito. Toda definición que se dé a esta palabra variará con la filosofía que se adopte. Por lo tanto, todo lo que podemos decir al empezar es que existen ciertos problemas que interesan a determinadas personas, y que, al menos por ahora, no pertenecen a ninguna ciencia especial. Todos estos problemas son de tal especie que suscitan dudas acerca de lo que pasa comúnmente por conocimiento; y, si estas dudas se han de aclarar, en modo alguno lo harán solo mediante un estudio especial al cual damos el nombre de «filosofía».\n\nEn consecuencia, el primer paso que puede darse para definir esta palabra consiste en indicar esos problemas y esas dudas, los cuales constituyen asimismo el primer paso en el verdadero estudio de la filosofía. Entre los problemas filosóficos tradicionales hay algunos que no se prestan, según mi parecer, a ningún tratamiento intelectual por sí mismos, ya que trascienden nuestras facultades cognoscitivas; por lo tanto, no trataremos de estos problemas. Hay otros, sin embargo, que, aunque no sean susceptibles de que pueda dárseles solución definitiva por ahora, lo son al menos de que se muestre la dirección que ha de seguirse para lograrla y el género de solución que les conviene, y que tal vez se alcance con el tiempo. La filosofía se origina del esfuerzo inusitadamente obstinado por alcanzar el conocimiento verdadero; lo que en nuestra vida ordinaria pasa por ser conocimiento adolece de tres defectos: es demasiado seguro de sí mismo; es vago; es contradictorio. [...]",
+    "timestamp": 1748383019.840239
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Ciencia",
+    "contenido": "La ciencia es una disciplina sistemática que construye y organiza conocimiento en forma de hipótesis y predicciones comprobables sobre el universo. La ciencia moderna se divide típicamente en dos o tres ramas principales: las ciencias naturales, que estudian el mundo físico; y las ciencias sociales, que estudian a los individuos y las sociedades. Las ciencias formales, que estudian sistemas formales regidos por axiomas y reglas, a veces también se describen como ciencias; sin embargo, a menudo se consideran un campo separado porque dependen del razonamiento deductivo en lugar del método científico o de la evidencia empírica como su principal metodología. Las ciencias aplicadas son disciplinas que utilizan el conocimiento científico con fines prácticos, como la ingeniería y la medicina.",
+    "timestamp": 1748383020.059836
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Arte",
+    "contenido": "El arte es entendido generalmente como cualquier actividad o producto realizado con una finalidad estética y también comunicativa, mediante la cual se expresan ideas, emociones y, en general, una visión del mundo, a través de diversos recursos, como los plásticos, lingüísticos, sonoros, corporales y mixtos. El arte es un componente de la cultura, reflejando en su concepción las bases económicas y sociales, y la transmisión de ideas y valores, inherentes a cualquier cultura humana a lo largo del espacio y el tiempo. Se suele considerar que con la aparición del Homo sapiens el arte tuvo en principio una función ritual, mágica o religiosa, pero esa función cambió con la evolución del ser humano, adquiriendo un componente estético y una función social, pedagógica, mercantil o simplemente ornamental.",
+    "timestamp": 1748383020.282613
+  },
+  {
+    "tipo": "wikipedia",
+    "tema": "Cultura",
+    "contenido": "La cultura es un concepto que abarca el comportamiento social, las instituciones y las normas que se encuentran en las sociedades humanas, así como el conocimiento, las creencias, el arte, las leyes, las costumbres, las actitudes y los hábitos de los individuos de estos grupos. La cultura a menudo se origina en una región o ubicación específica, o se atribuye a ella.",
+    "timestamp": 1748383020.500582
+  },
+  {
+    "tipo": "rss",
+    "fuente": "http://feeds.bbci.co.uk/mundo/rss.xml",
+    "noticias": [
+      {
+        "titulo": "Cómo Trump está militarizando la frontera entre EE.UU. y México",
+        "link": "https://www.bbc.com/mundo/articles/clyv841dl80o",
+        "fecha": "Tue, 27 May 2025 18:38:14 GMT",
+        "descripcion": "Trump redobla la presencia militar en la zona fronteriza con el argumento de una emergencia, mientras los números de cruces irregulares de personas están en mínimos históricos."
+      },
+      {
+        "titulo": "\"Nos entrenaban y nos decían que la orden era aniquilar\": 6 crímenes de lesa humanidad que el último informe de la ONU atribuye al gobierno de Nicaragua",
+        "link": "https://www.bbc.com/mundo/articles/cwyn3l53e51o",
+        "fecha": "Tue, 27 May 2025 12:46:32 GMT",
+        "descripcion": "El Grupo de Expertos en Derechos Humanos sobre Nicaragua de la ONU denunció crímenes de lesa humanidad e identificó a 54 presuntos responsables entre políticos, militantes y militares."
+      },
+      {
+        "titulo": "\"Canadá enfrenta un momento crítico\": el discurso del rey Carlos III ante el Parlamento en Ottawa en medio de la tensión con Trump",
+        "link": "https://www.bbc.com/mundo/articles/czxynpepq2no",
+        "fecha": "Tue, 27 May 2025 18:16:33 GMT",
+        "descripcion": "En su discurso con motivo del inicio de sesiones del Parlamento canadiense, el monarca hizo numerosas referencias a la \"soberanía\" e independencia de ese país."
+      },
+      {
+        "titulo": "La huella dactilar de hace más de 40.000 años que sugiere que los neandertales hacían arte",
+        "link": "https://www.bbc.com/mundo/articles/cp3qdv7z5wyo",
+        "fecha": "Tue, 27 May 2025 20:45:41 GMT",
+        "descripcion": "Una roca con apariencia de rostro podría convertirse en \"la primera pieza de arte portátil\" que se haya encontrado relacionada a los neandertales."
+      },
+      {
+        "titulo": "El gobierno de Trump ordena a las embajadas de EE.UU. en todo el mundo suspender las entrevistas para los visados de estudiantes extranjeros",
+        "link": "https://www.bbc.com/mundo/articles/czj4pp28d1yo",
+        "fecha": "Tue, 27 May 2025 21:48:48 GMT",
+        "descripcion": "La pausa en la emisión de citas buscaría ampliar los controles de antecedentes y la revisión de las redes sociales de los solicitantes de visado."
+      }
+    ],
+    "timestamp": 1748383022.127125
+  },
+  {
+    "tipo": "rss",
+    "fuente": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "noticias": [
+      {
+        "titulo": "Israeli Forces Said They Killed a ‘Terrorist.’ He Was 14 Years Old.",
+        "link": "https://www.nytimes.com/2025/05/27/world/middleeast/west-bank-israel-military-killing.html",
+        "fecha": "Tue, 27 May 2025 17:35:55 +0000",
+        "descripcion": "The death of Amer Rabee, a Palestinian American in the West Bank, has spurred anger over soldiers’ use of force and an apparent lack of accountability."
+      },
+      {
+        "titulo": "French Crypto Chiefs Step Up Security After Violent Kidnappings",
+        "link": "https://www.nytimes.com/2025/05/27/world/europe/france-crypto-kidnappings.html",
+        "fecha": "Tue, 27 May 2025 19:49:09 +0000",
+        "descripcion": "​Big players in the crypto sector argue that new European cryptocurrency rules may be enabling recent abductions and are demanding changes and more security."
+      },
+      {
+        "titulo": "What to Know About the Liverpool FC Parade Car Crash",
+        "link": "https://www.nytimes.com/article/uk-liverpool-parade-car-crash.html",
+        "fecha": "Tue, 27 May 2025 15:53:52 +0000",
+        "descripcion": "More than 60 people, including four children, were injured on Monday after a driver plowed into a crowd that had been celebrating Liverpool F.C.’s Premier League title."
+      },
+      {
+        "titulo": "Mediators Urge Gaza Cease-Fire Proposal as Israeli Offensive Looms",
+        "link": "https://www.nytimes.com/2025/05/27/world/middleeast/israel-hamas-gaza-cease-fire-talks.html",
+        "fecha": "Tue, 27 May 2025 16:35:45 +0000",
+        "descripcion": "Israel, Hamas and the Trump administration have issued different messages about where efforts to reach a truce stand."
+      },
+      {
+        "titulo": "Could the French Pedophile Doctor Joël Le Scouarnec Have Been Stopped Earlier?",
+        "link": "https://www.nytimes.com/2025/05/27/world/europe/joel-le-scouarnec-france-doctor-pedophile.html",
+        "fecha": "Tue, 27 May 2025 09:02:24 +0000",
+        "descripcion": "Years before Joël Le Scouarnec was charged with abusing 299 former patients, he was convicted of downloading child sexual abuse imagery."
+      }
+    ],
+    "timestamp": 1748383024.473772
+  }
+]
